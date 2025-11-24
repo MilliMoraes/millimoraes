@@ -1,7 +1,7 @@
 # Hello! Welcome to my Github profile. 👋
 ## My name is Milliany and my nickname is "Milli"
 
-[Snake animation](https://github.com/millimoraes/millimoraes/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/millimoraes/millimoraes/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--
