@@ -1,4 +1,4 @@
-# Hello! Welcome to my Github profile.
+# Hello! Welcome to my Github profile. 👋
 ## My name is Milliany and my nickname is "Milli"
 
 <!--
